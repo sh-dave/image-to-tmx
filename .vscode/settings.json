@@ -1,0 +1,7 @@
+{
+    "haxe.executable": {
+        "windows": "node_modules\\.bin\\haxe.cmd",
+        "linux": "node_modules/.bin/haxe",
+        "osx": "node_modules/.bin/haxe"
+    }
+}

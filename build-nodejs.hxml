@@ -1,0 +1,9 @@
+-lib format
+-lib hxnodejs
+-lib mcli
+
+-cp src
+-main MapWriter
+
+-js bin/nodejs/image-to-tmx.js
+-debug

@@ -1,0 +1,4 @@
+-D mcli=0.1.6
+# @install: lix --silent download "haxelib:/mcli#0.1.6" into mcli/0.1.6/haxelib
+-cp ${HAXE_LIBCACHE}/mcli/0.1.6/haxelib/
+-D use_rtti_doc
